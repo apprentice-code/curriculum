@@ -1,5 +1,5 @@
-# Code Apprentice - Week 1
-September 3 - September 10, 2018
+# Code Apprentice - Week __
+___ - ___
 
 ## Learning Objective:
 * Students will learn to operate their hardware of choice using a bash terminal to identify and recognize abstraction between the digital literate and non-digital literate.
