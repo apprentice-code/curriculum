@@ -1,2 +1,2 @@
-# curriculum
+# Curriculum
 Curriculum for Code Apprentice
