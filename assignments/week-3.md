@@ -1,8 +1,8 @@
 # Code Apprentice - Week #3
 
 ## Learning Objectives:
-* Students will identify use cases for the following HTML tags: div, a, h1 - h6, ol, ul, li.
-* Students will compare different use cases and types of <a> tags as well as implement each type into HTML project.
+* Students will identify use cases for the following HTML tags: `<div>`, `<a>`, `<h1>` - `<h6>`, `<ol>`, `<ul>`, `<li>`.
+* Students will compare different use cases and types of `<a>` tags as well as implement each type into HTML project.
 * Students will implement unordered and ordered lists into an HTML project.
 * Students wil implement unordered and ordered lists into an HTML project.
 * Students will reproduce a basic form that includes inputs, buttons, labels, and placeholder text.
@@ -43,17 +43,17 @@ Using HTML, create a contact page and college admissions form that collects the 
 
 On the Contact Page for the College, include information in semantically correct HTML. You must use all of the HTML elements listed below:
 
-* <a>
-* <p>
-* <h1>
-* <h3>
-* <form>
-* <article>
-* <section>
-* <div>
-* <ol>
-* <ul>
-* <li>
+* `<a>`
+* `<p>`
+* `<h1>`
+* `<h3>`
+* `<form>`
+* `<article>`
+* `<section>`
+* `<div>`
+* `<ol>`
+* `<ul>`
+* `<li>`
     
 ## Extension
 * Next week the students start CSS. Research and update all **@GARRETT THIS NEEDS MORE TEXT**
