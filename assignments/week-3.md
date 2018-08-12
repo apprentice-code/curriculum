@@ -42,6 +42,7 @@ Using HTML, create a contact page and college admissions form that collects the 
 * Personal Statement
 
 On the Contact Page for the College, include information in semantically correct HTML. You must use all of the HTML elements listed below:
+
 * <a>
 * <p>
 * <h1>
