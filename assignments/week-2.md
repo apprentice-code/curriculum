@@ -7,26 +7,33 @@ September 3, 2018 - September 10, 2018
 * Students will evaluate the use of open-source-software.
 
 ## Resources:
-* https://www.youtube.com/watch?v=uUuTYDg9XoI 
-* https://www.youtube.com/watch?v=QqP7YZlZEOo 
-* https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5
+* https://git-scm.com/docs/git-diff 
+* https://www.atlassian.com/git/tutorials/saving-changes/git-diff
 
 ## Self Guided Learning:
-- [ ] Complete Code Apprentice Onboarding
-  * Sets up git
-	* Sets up github account
-  * Sets up VS Code
-  * Creates home for code apprentice work in computer
-- [ ] Complete the first 6 exercises on freeCodeCamp:
-	* Introduction to what an html element is:
-	  * Headers
-	  * Images
-    * Sections
-	  * Divs
-	  * Unordered Lists
-	  * List Items
+
+Complete the following exercises on freeCode
+* [Delete HTML Elements](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/delete-html-elements/)
+* [Introduction fo HTML 5 Elements](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/introduction-to-html5-elements/)
+* [Add images to your website](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/add-images-to-your-website/)
+* [Link to external pages with anchor elements](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/link-to-external-pages-with-anchor-elements/)
+* [Link to internal sections of a page with anchor elements](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/link-to-internal-sections-of-a-page-with-anchor-elements/)
     
 ## Assignment
+
+## Mentor Guided Learning
+Using HTML, create an info card for your favorite musician.
+
+1. Create a section component within the HTML body element
+2. Use semantically correct HTML to share the following information about your favorite musician or band:
+* Name
+* Members (if a band)
+* Biography
+* Image
     
 ## Extension
-Explore some CSS, and add some styling to your Congressperson’s info card you created in Assignment 1.
+* Include a color to describe the conservation status of the animal around each section as a border. Apply this style via CSS. 
+
+## Questions
+* What is the difference between block and inline bock elements?
+* What is the difference between a section HTML element tag and an article element tag? 
