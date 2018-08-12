@@ -1,7 +1,7 @@
 # Code Apprentice - Week #2
 
 ## Learning Objective:
-@GARRETT -- NEED ASSIGNMENTS HERE
+@GARRETT -- NEED LEARNING OBJECTIVES HERE
 
 ## Resources:
 * https://git-scm.com/docs/git-diff 
