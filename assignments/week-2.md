@@ -17,7 +17,7 @@ Complete the following exercises on FreeCodeCamp
 * [Link to internal sections of a page with anchor elements](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/link-to-internal-sections-of-a-page-with-anchor-elements/)
     
 ## Assignment
-<span style="background-color: #FFFF00">@GARRETT - NEED ASSIGNMENT</span>
+* **@GARRETT - NEED ASSIGNMENT**
 
 ## Mentor Guided Learning
 Using HTML, create an info card for your favorite musician.
@@ -31,7 +31,7 @@ Using HTML, create an info card for your favorite musician.
     
 ## Extension
 * Include a color to describe the conservation status of the animal around each section as a border. Apply this style via CSS.
-<span style="background-color: #FFFF00">@GARRETT -THIS EXTENSION DOES NOT MAKE SENSE IN LIGHT OF THE MENTOR GUIDED LEARNING. IS THIS RELATED TO THE ASSIGNMENT?</span>
+* **@GARRETT -THIS EXTENSION DOES NOT MAKE SENSE IN LIGHT OF THE MENTOR GUIDED LEARNING. IS THIS RELATED TO THE ASSIGNMENT?**
 
 ## Questions
 * What is the difference between block and inline bock elements?
