@@ -1,32 +1,37 @@
-# Code Apprentice - Week #1
-September 3, 2018 - September 10, 2018
+# Code Apprentice - Assignment Week #1
 
-## Learning Objective:
-* Students will learn to operate their hardware of choice using a bash terminal to identify and recognize abstraction between the digital literate and non-digital literate.
-* Students will learn to generate a git repository and share their work via github account.
-* Students will evaluate the use of open-source-software.
+## Assignment Title: congressional-info
 
-## Resources:
-* https://www.youtube.com/watch?v=uUuTYDg9XoI 
-* https://www.youtube.com/watch?v=QqP7YZlZEOo 
-* https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5
+## Instructions:
+Before you start work on your assignment complete the following steps to get GitHub setup correctly. This is how you will share your work with your mentor and Code Apprentice. 
 
-## Self Guided Learning:
-- [ ] Complete Code Apprentice Onboarding
-  * Sets up git
-	* Sets up github account
-  * Sets up VS Code
-  * Creates home for code apprentice work in computer
-- [ ] Complete the first 6 exercises on freeCodeCamp:
-	* Introduction to what an html element is:
-	  * Headers
-	  * Images
-    * Sections
-	  * Divs
-	  * Unordered Lists
-	  * List Items
-    
-## Assignment
-    
-## Extension
-Explore some CSS, and add some styling to your Congressperson’s info card you created in Assignment 1.
+1. Create a new repo in github titled `congressional-info`
+1. Copy the url titled `quick setup` it should start with https:// This will be different for everyone and should should replace `{origin-from-your-github-repo}` with that link.
+1. Open a terminal
+1. Copy and paste the following commads into your terminal.
+	- `cd ~ && mkdir workspace`
+	- `cd workspace && mkdir congressional-info`
+	- `git init`
+	- `git remote add origin {origin-from-your-github-repo}`
+	- `git add .`
+	- `git commit -m 'init commit'`
+	- `git push origin master` 
+1. Each time you would like to make changes to an assignment and share your work you will need to do this. It will be difficult to start, but you will get use to it in time.
+
+You're going to create an HTML component to represent a political candidate. Specifically, the representative of your Congressional district. Visit the GovTrack site link below, enter in your home address, and you'll find basic information about your representative.
+
+https://www.govtrack.us/congress/members/map
+
+In your HTML, create an article tag that will serve as your main representative component. Give the element a unique identifier. 
+    1. In this component, create a sub-component for basic information using the section tag. In this section create elements for the representative's image, name, district info, and political affiliation. 
+    2. Beneath the basic information, you will create a sub-component, using a section tag, to list any committees the candidate is serving on. 
+    3. The last component will hold links to any legislation that your representative has enacted. 
+    4. Upload work to github with the repository name of congressional-info. Remember that this name must be spelled correctly and include the same punctuation to receive credit. If you have any questions about this what so ever please reach out via slack. 
+
+Once you have completed the code do the following 
+
+1. Open a terminal
+1. `cd ~/workspace/congressional-info`
+1. `git add .`
+1. `git commit -m 'finished the assignment'`
+1. `git push origin master`
