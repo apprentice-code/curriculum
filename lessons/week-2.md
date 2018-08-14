@@ -32,7 +32,7 @@ Using HTML, create an info card about your school.
 [animal-planet](/assignments/week-2.md)
     
 ## Extension
-<!-- TODO -->
+Explore some CSS, and add some styling to each teacher's card you created in the mentor guided learning. Have this be an outside CSS file that you import at the top of the HTML file.
 
 ## Questions
 * What is the difference between block and inline bock elements?

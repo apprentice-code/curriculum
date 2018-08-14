@@ -2,7 +2,7 @@
 Curriculum for Code Apprentice
 
 ## Each Week Follow the following Step
-1. Go to the `lessons` folder and find the corresponding week. Open the file.
+1. Go to the `lessons~` folder and find the corresponding week. Open the file.
     - Read the Learning Objective
     - Complete the self guided learning
     - With your mentor complete the mentor-guided learning  
