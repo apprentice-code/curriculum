@@ -18,7 +18,15 @@ Before you start work on your assignment complete the following steps to get Git
 	- `git push origin master`
 
 ### Directions
-<!-- TODO -->
+You will create several HTML cards for one of the following:
+- Baseball Players
+- Football Players
+- Basketball Players
+- Pokemon
+- Animals
+
+Your cards should like similar to the following. https://codepen.io/zenvercoder/pen/ZWZbyv 
+You should display 6 cards on one HTML Page
 
 1. Open a terminal
 1. `cd ~/workspace/card-collection`
