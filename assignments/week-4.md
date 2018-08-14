@@ -1,44 +1,30 @@
-# Code Apprentice - Week #4
+# Code Apprentice - Assignment Week #4
 
-## Learning Objective:
-* Students will illustrate advanced form concepts and identify form validation.
-* Students will employ CSS styles to update the look and feel of their given website.
+## Assignment Title: state-flag
 
-## Resources:
-* https://www.youtube.com/watch?v=s7ONvIgOWdM
+## Instructions:
+Before you start work on your assignment complete the following steps to get GitHub setup correctly. This is how you will share your work with your mentor and Code Apprentice. 
 
-## Self Guided Learning:
+1. Create a new repo in github titled `state-flag`
+1. Copy the url titled `quick setup` it should start with https:// This will be different for everyone and should should replace `{origin-from-your-github-repo}` with that link.
+1. Open a terminal
+1. Copy and paste the following commads into your terminal.
+	- `cd ~ && mkdir workspace`
+	- `cd workspace && mkdir state-flag`
+	- `git init`
+	- `git remote add origin {origin-from-your-github-repo}`
+	- `git add .`
+	- `git commit -m 'init commit'`
+	- `git push origin master`
 
-Complete the following exercises on FreeCodeCamp
-* [Use HTML5 to require a field](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/use-html5-to-require-a-field)
-* [Create a set of radio buttons](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-set-of-radio-buttons)
-* [Create a set of checkboxes](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes)
-* [Check radio buttons and checkboxes by default](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/check-radio-buttons-and-checkboxes-by-default)
-* [Nest many elements within a single div element](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/nest-many-elements-within-a-single-div-element)
-* [Declare the doctype of an HTML document](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/declare-the-doctype-of-an-html-document)
-* [Change the color of text](https://learn.freecodecamp.org/responsive-web-design/basic-css/change-the-color-of-text)
-* [Use CSS selectors to style elements](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-css-selectors-to-style-elements)
-* [Use CSS class to style an element](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-a-css-class-to-style-an-element)
+### Directions
+You will generate an HTML CSS document that displays your state flag. If your state flag has a complicated design you may use an image. (For example, it would be fine to use an image for the palmetto tree in the South Carolina flag)
+- You must use CSS to position any elements, as well as style the flag the appropriate colors. 
+- You may also use CSS transitions to move the flag on the page. 
+- Example: [flags](https://pixelastic.github.io/css-flags/)
 
-## Assignment
-* **@GARRETT - NEED ASSIGNMENT**
-
-## Mentor Guided Learning
-* Go find a website and turn off the CSS and discuss why the website looks the way it does.
-* Over the next three weeks, create a portfolio site with your student
-* * This week, focus exclusively on the navigation and navbar. Style the page appropriately.
-
-1. Create a section component within the HTML body element
-2. Use semantically correct HTML to share the following information about your favorite musician or band:
-* Name
-* Members (if a band)
-* Biography
-* Image
-    
-## Extension
-* **@GARRETT - NEED EXTENSION **
-
-## Questions
-* Why was CSS created?
-* How can you work on creating a modern website?
-* * @GARRETT THIS DOESN'T MAKE MUCH SENSE. WHAT DO YOU MEAN BY THIS?
+1. Open a terminal
+1. `cd ~/workspace/state-flag`
+1. `git add .`
+1. `git commit -m 'finished the assignment'`
+1. `git push origin master`
