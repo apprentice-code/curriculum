@@ -1,4 +1,4 @@
-# Code Apprentice - Week # %
+# Code Apprentice - Week #5
 October 8, 2018 - October 12, 2018 (Charleston County Schools)
 
 ## Learning Objectives:
@@ -36,7 +36,8 @@ Mentor Guided Learning:
 [card-collection](/assignments/week-5.md)
     
 ## Extension
-<!-- TODO -->
+Add Bootstrap to your portfolio project so that your website looks nice on a mobile device. 
+* [Bootstrap](https://getbootstrap.com/)
 
 ## Questions
-<!-- TODO -->
+- How do you organize and architect your CSS file so that it is readable and easy to maintain as your project grows? 
