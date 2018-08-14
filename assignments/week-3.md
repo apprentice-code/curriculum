@@ -1,63 +1,43 @@
-# Code Apprentice - Week #3
+# Code Apprentice - Assignment Week #3
 
-## Learning Objectives:
-* Students will identify use cases for the following HTML tags: `<div>`, `<a>`, `<h1>` - `<h6>`, `<ol>`, `<ul>`, `<li>`.
-* Students will compare different use cases and types of `<a>` tags as well as implement each type into HTML project.
-* Students will implement unordered and ordered lists into an HTML project.
-* Students wil implement unordered and ordered lists into an HTML project.
-* Students will reproduce a basic form that includes inputs, buttons, labels, and placeholder text.
+## Assignment Title: your-business
 
-## Resources:
-* https://www.atlassian.com/git/tutorials/saving-changes
-* https://www.w3schools.com/htmL/html_forms.asp
-* https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form
+## Instructions:
+Before you start work on your assignment complete the following steps to get GitHub setup correctly. This is how you will share your work with your mentor and Code Apprentice. 
 
-## Self Guided Learning:
+1. Create a new repo in github titled `your-business`
+1. Copy the url titled `quick setup` it should start with https:// This will be different for everyone and should should replace `{origin-from-your-github-repo}` with that link.
+1. Open a terminal
+1. Copy and paste the following commads into your terminal.
+	- `cd ~ && mkdir workspace`
+	- `cd workspace && mkdir your-business`
+	- `git init`
+	- `git remote add origin {origin-from-your-github-repo}`
+	- `git add .`
+	- `git commit -m 'init commit'`
+	- `git push origin master`
 
-Complete the following exercises on FreeCodeCamp:
-* [Nest an archor element within a paragraph](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/nest-an-anchor-element-within-a-paragraph)
-* [Make dead links using the hash symbol](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/make-dead-links-using-the-hash-symbol)
-* [Turn an image into a link](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link)
-* [Create a bulleted unordered list](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-bulleted-unordered-list)
-* [Create an ordered list](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-an-ordered-list)
-* [Create a text field](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-text-field)
-* [Add placeholder text to a text field](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/add-placeholder-text-to-a-text-field)
-* [Create a form element](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-form-element)
-* [Add a submit button to a form](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/add-a-submit-button-to-a-form)
-    
-## Assignment
-* **@GARRETT - NEED ASSIGNMENT**
+### Directions
+You're going to create a single HTML page for a small business in your town. This page should have 2 separate sections. The first section is an about the company section. This should include the following on the company:
+- Location of Company
+- Photo from Google Places of the Company
+- Name of Company
+- Phone Number for the Company
+In the second segment you will include a form that will allow potential users to join a newsletter for the company. 
 
-## Intervention 
-* **@GARRETT - NEED INTERVENTION**
+Your form must include:
+- User First Name
+- User Last Name
+- User Email Address
+- Checkbox for interest in “Additional Services”
+- Submit Button
 
-## Mentor Guided Learning
-Using HTML, create a contact page and college admissions form that collects the following data from a potential student.
-* First Name
-* Last Name
-* Phone Number
-* High School Name
-* GPA
-* List of Extra Curricular Activities
-* Personal Statement
+Before you complete your work you must also include a diagram of the expected results of your html page. Please create this diagram on www.draw.io/ and include the diagram in your final project that you upload to GitHub.
 
-On the Contact Page for the College, include information in semantically correct HTML. You must use all of the HTML elements listed below:
+Once you have completed the code do the following 
 
-* `<a>`
-* `<p>`
-* `<h1>`
-* `<h3>`
-* `<form>`
-* `<article>`
-* `<section>`
-* `<div>`
-* `<ol>`
-* `<ul>`
-* `<li>`
-    
-## Extension
-* Next week the students start CSS. Research and update all **@GARRETT THIS NEEDS MORE TEXT**
-
-## Questions
-* Where does the data go once a user clicks "submit" on the form?
-* How could we potentially persist data once a user has completed the form?
+1. Open a terminal
+1. `cd ~/workspace/your-business`
+1. `git add .`
+1. `git commit -m 'finished the assignment'`
+1. `git push origin master`
