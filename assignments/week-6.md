@@ -1,34 +1,43 @@
-# Code Apprentice - Week #6
+# Code Apprentice - Assignment Week #6
 
-## Learning Objectives:
-* Students will calculate and create a media query based off 3 different screen sizes.
-* Students will construct CSS rules and delegate the rule using CSS pseudo-classes. 
+## Assignment Title: product-landing
 
-## Resources:
-* https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
-* https://www.w3schools.com/cssref/css3_pr_mediaquery.asp
-* https://css-tricks.com/logic-in-media-queries
+## Instructions:
+Before you start work on your assignment complete the following steps to get GitHub setup correctly. This is how you will share your work with your mentor and Code Apprentice. 
 
-## Self Guided Learning:
-Complete the following exercises on freeCodeCamp:
-* [Add a negative margin to an element](https://learn.freecodecamp.org/responsive-web-design/basic-css/add-a-negative-margin-to-an-element)
-* [Add different padding to each side of an element](https://learn.freecodecamp.org/responsive-web-design/basic-css/add-different-padding-to-each-side-of-an-element) 
-* [Add different margins to each side of an element](https://learn.freecodecamp.org/responsive-web-design/basic-css/add-different-margins-to-each-side-of-an-element) 
-* [Use clockwise notation to specify the padding of an element](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-padding-of-an-element)
-* [Use attribute selectors to style elements](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-attribute-selectors-to-style-elements)
-* [Use a media query to change a variable](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable)
+1. Create a new repo in github titled `product-landing`
+1. Copy the url titled `quick setup` it should start with https:// This will be different for everyone and should should replace `{origin-from-your-github-repo}` with that link.
+1. Open a terminal
+1. Copy and paste the following commads into your terminal.
+	- `cd ~ && mkdir workspace`
+	- `cd workspace && mkdir product-landing`
+	- `git init`
+	- `git remote add origin {origin-from-your-github-repo}`
+	- `git add .`
+	- `git commit -m 'init commit'`
+	- `git push origin master`
 
-## Assignment
-**@GARRETT - NEED ASSIGNMENT HERE**
+### Directions
+* Complete the following 'User Stories' and upload these files to github afterwards
+- You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk. Other projects will give you a chance to work with different technology stacks like React. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!
+- User Story #1: My product landing page should have a header element with a corresponding id="header".
+- User Story #2: I can see an image within the header element with a corresponding id="header-img". A company logo would make a good image here.
+- User Story #3: Within the #header element I can see a nav element with a corresponding id="nav-bar".
+- User Story #4: I can see at least three clickable elements inside the nav element, each with the class nav-link.
+- User Story #5: When I click a .nav-link button in the nav element, I am taken to the corresponding section of the landing page.
+- User Story #6: I can watch an embedded product video with id="video".
+- User Story #7: My landing page has a form element with a corresponding id="form".
+- User Story #8: Within the form, there is an input field with id="email" where I can enter an email address.
+- User Story #9: The #email input field should have placeholder text to let the user know what the field is for.
+- User Story #10: The #email input field uses HTML5 validation to confirm that the entered text is an email address.
+- User Story #11: Within the form, there is a submit input with a corresponding id="submit".
+- User Story #12: When I click the #submit element, the email is submitted to a static page.
+- User Story #13: The navbar should always be at the top of the viewport.
+- User Story #14: My product landing page should have at least one media query.
+- User Story #15: My product landing page should utilize CSS flexbox at least once.
 
-## Mentor Guided Learning
-**@GARRETT - NEED MENTOR GUIDED LEARNING HERE**
-
-## Intervention
-**@GARRETT - NEED INTERVENTION HERE**
-
-## Extension
-**@GARRETT - NEED EXTENSION HERE**
-
-## Questions
-**@GARRETT - NEED QUESTIONS HERE**
+1. Open a terminal
+1. `cd ~/workspace/product-landing`
+1. `git add .`
+1. `git commit -m 'finished the assignment'`
+1. `git push origin master`
