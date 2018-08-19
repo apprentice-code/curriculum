@@ -5,7 +5,7 @@ October 22, 2018 - October 26, 2018 (Charleston County Schools)
 * Students will identify different data types in Javascript, and create functions for reusable code.
 
 ## Resources:
-<!-- TODO -->
+[Javascript in Half an Hour](https://www.youtube.com/watch?v=zPHerhks2Vg)
 
 ## Self Guided Learning:
 Complete the following exercises on freeCodeCamp:
@@ -34,16 +34,21 @@ Complete the following exercises on freeCodeCamp:
 
 
 ## Mentor Guided Learning
-<!-- TODO -->
+With your mentee complete the following:
+
+* Create an addition function that adds 2 numbers together and returns the sum
+* Create a subtraction function that subtracts a number from another number and returns the difference
+* Create a multiplication function that returns the product
+* Create a division function that returns the quotient of 2 numbers
+
+* Create a small HTML, JS calculator where a user can select an operation against 2 inputs and receive the answer. 
 
 ## Assignment
-[assignment](/assignments/week-7.md)
+[family-tree](/assignments/week-7.md)
 
-##Intervention
-<!-- TODO -->
     
 ## Extension
-<!-- TODO -->
+Work on using Javascript to update HTML elements on the DOM. We will learn more about this in future lessons. This is a common use case for Javascript. 
 
 ## Questions
-<!-- TODO -->
+What are the different datatypes found in native javascript? 
