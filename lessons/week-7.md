@@ -32,7 +32,6 @@ Complete the following exercises on freeCodeCamp:
 * [Assignment #21](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/constructing-strings-with-variables/)
 * [Assignment #22](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/write-reusable-javascript-with-functions/)
 
-
 ## Mentor Guided Learning
 With your mentee complete the following:
 
