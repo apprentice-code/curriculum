@@ -1,4 +1,4 @@
-# Code Apprentice - Week #
+# Code Apprentice - Week #8
 October 29, 2018 - November 2, 2018 (Charleston County Schools)
 
 ## Learning Objectives:
