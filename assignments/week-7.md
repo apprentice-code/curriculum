@@ -3,12 +3,12 @@
 ## Assignment Title: family-tree
 
 ## Instructions:
-Before you start work on your assignment complete the following steps to get GitHub setup correctly. This is how you will share your work with your mentor and Code Apprentice. 
+Before you start work on your assignment complete the following steps to get GitHub setup correctly. This is how you will share your work with your mentor and Code Apprentice.
 
 1. Create a new repo in github titled `family-tree`
 1. Copy the url titled `quick setup` it should start with https:// This will be different for everyone and should should replace `{origin-from-your-github-repo}` with that link.
 1. Open a terminal
-1. Copy and paste the following commads into your terminal.
+1. Copy and paste the following commands into your terminal.
 	- `cd ~ && mkdir workspace`
 	- `cd workspace && mkdir family-tree`
 	- `git init`

@@ -2,10 +2,10 @@
 November 12, 2018 - November 16, 2018 (Charleston County Schools)
 
 ## Learning Objectives:
-* Students will update and manipulate DOM nodes through the use of jQuery and explore how libraries can be used and implemented into existing projects. 
+* Students will update and manipulate DOM nodes through the use of jQuery and explore how libraries can be used and implemented into existing projects.
 
 ## Resources:
-<!-- TODO -->
+[Crash Course](https://www.youtube.com/watch?v=3nrLc_JOF7k)
 
 ## Self Guided Learning:
 Complete the following exercises on freeCodeCamp:
@@ -23,15 +23,14 @@ Complete the following exercises on freeCodeCamp:
 ## Mentor Guided Learning
 With your mentee complete the following:
 
-
+- Update / Or Create a calculator using HTML, CSS, and jQuery
 
 ## Assignment
-[assignment](/assignments/week-10.md)
+[hangman](/assignments/week-10.md)
 
-    
+
 ## Extension
-<!-- TODO -->
+Add bootstrap to your hangman project, and work on using `$.ajax` to have a hangman game that always has a random word.
 
 ## Questions
 <!-- TODO -->
-

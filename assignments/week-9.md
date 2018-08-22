@@ -3,12 +3,12 @@
 ## Assignment Title: translator
 
 ## Instructions:
-Before you start work on your assignment complete the following steps to get GitHub setup correctly. This is how you will share your work with your mentor and Code Apprentice. 
+Before you start work on your assignment complete the following steps to get GitHub setup correctly. This is how you will share your work with your mentor and Code Apprentice.
 
 1. Create a new repo in github titled `translator`
 1. Copy the url titled `quick setup` it should start with https:// This will be different for everyone and should should replace `{origin-from-your-github-repo}` with that link.
 1. Open a terminal
-1. Copy and paste the following commads into your terminal.
+1. Copy and paste the following commands into your terminal.
 	- `cd ~ && mkdir workspace`
 	- `cd workspace && mkdir translator`
 	- `git init`
@@ -20,8 +20,8 @@ Before you start work on your assignment complete the following steps to get Git
 ### Directions
 1. Generate a User interface that allows the user to enter in text and select a language to translate a phrase in english into the selected language.
 2. When the user presses a button in the html the phrase that has been enter'd should be translated and the translated phrase should be outputed onto the screen in a div on the DOM.
-3. The user should be able to translate at least 5 phrases. 
-4. The user should be able to select at least 3 different foreign languages to translate said phrases. 
+3. The user should be able to translate at least 5 phrases.
+4. The user should be able to select at least 3 different foreign languages to translate said phrases.
 
 1. Open a terminal
 1. `cd ~/workspace/translator`

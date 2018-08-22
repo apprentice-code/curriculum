@@ -3,12 +3,12 @@
 ## Assignment Title: your-business
 
 ## Instructions:
-Before you start work on your assignment complete the following steps to get GitHub setup correctly. This is how you will share your work with your mentor and Code Apprentice. 
+Before you start work on your assignment complete the following steps to get GitHub setup correctly. This is how you will share your work with your mentor and Code Apprentice.
 
 1. Create a new repo in github titled `your-business`
 1. Copy the url titled `quick setup` it should start with https:// This will be different for everyone and should should replace `{origin-from-your-github-repo}` with that link.
 1. Open a terminal
-1. Copy and paste the following commads into your terminal.
+1. Copy and paste the following commands into your terminal.
 	- `cd ~ && mkdir workspace`
 	- `cd workspace && mkdir your-business`
 	- `git init`
@@ -23,7 +23,7 @@ You're going to create a single HTML page for a small business in your town. Thi
 - Photo from Google Places of the Company
 - Name of Company
 - Phone Number for the Company
-In the second segment you will include a form that will allow potential users to join a newsletter for the company. 
+In the second segment you will include a form that will allow potential users to join a newsletter for the company.
 
 Your form must include:
 - User First Name
@@ -34,7 +34,7 @@ Your form must include:
 
 Before you complete your work you must also include a diagram of the expected results of your html page. Please create this diagram on www.draw.io/ and include the diagram in your final project that you upload to GitHub.
 
-Once you have completed the code do the following 
+Once you have completed the code do the following
 
 1. Open a terminal
 1. `cd ~/workspace/your-business`
