@@ -19,7 +19,6 @@ Complete the following exercises on freeCodeCamp:
 * [Assignment #8](https://learn.freecodecamp.org/front-end-libraries/jquery/change-the-css-of-an-element-using-jquery/)
 * [Assignment #9](https://learn.freecodecamp.org/front-end-libraries/jquery/disable-an-element-using-jquery/)
 
-
 ## Mentor Guided Learning
 With your mentee complete the following:
 
@@ -27,7 +26,6 @@ With your mentee complete the following:
 
 ## Assignment
 [hangman](/assignments/week-10.md)
-
 
 ## Extension
 Add bootstrap to your hangman project, and work on using `$.ajax` to have a hangman game that always has a random word.
