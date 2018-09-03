@@ -34,6 +34,7 @@ Using HTML create an info card for your favorite musician.
   - Image
     
 ## Assignment
+[hello-world](/assignments/week-0.md) Due Thursday, September 6th
 [congressional-info](/assignments/week-1.md)
     
 ## Extension
