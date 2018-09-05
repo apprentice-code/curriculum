@@ -5,39 +5,49 @@
 ## Instructions:
 Before you start work on your assignment complete the following steps to get GitHub setup correctly. This is how you will share your work with your mentor and Code Apprentice.
 
-1. Create a new repo in github titled `product-landing`
+1. Create a new repo in GitHub titled `product-landing`
 1. Copy the url titled `quick setup` it should start with https:// This will be different for everyone and should should replace `{origin-from-your-github-repo}` with that link.
 1. Open a terminal
 1. Copy and paste the following commands into your terminal.
 	- `cd ~ && mkdir workspace`
 	- `cd workspace && mkdir product-landing`
+	- `cd product-landing`
 	- `git init`
 	- `git remote add origin {origin-from-your-github-repo}`
 	- `git add .`
 	- `git commit -m 'init commit'`
 	- `git push origin master`
 
-### Directions
-* Complete the following 'User Stories' and upload these files to github afterwards
-- You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk. Other projects will give you a chance to work with different technology stacks like React. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!
-- User Story #1: My product landing page should have a header element with a corresponding id="header".
-- User Story #2: I can see an image within the header element with a corresponding id="header-img". A company logo would make a good image here.
-- User Story #3: Within the #header element I can see a nav element with a corresponding id="nav-bar".
-- User Story #4: I can see at least three clickable elements inside the nav element, each with the class nav-link.
-- User Story #5: When I click a .nav-link button in the nav element, I am taken to the corresponding section of the landing page.
-- User Story #6: I can watch an embedded product video with id="video".
-- User Story #7: My landing page has a form element with a corresponding id="form".
-- User Story #8: Within the form, there is an input field with id="email" where I can enter an email address.
-- User Story #9: The #email input field should have placeholder text to let the user know what the field is for.
-- User Story #10: The #email input field uses HTML5 validation to confirm that the entered text is an email address.
-- User Story #11: Within the form, there is a submit input with a corresponding id="submit".
-- User Story #12: When I click the #submit element, the email is submitted to a static page.
-- User Story #13: The navbar should always be at the top of the viewport.
-- User Story #14: My product landing page should have at least one media query.
-- User Story #15: My product landing page should utilize CSS flexbox at least once.
+---
 
-1. Open a terminal
-1. `cd ~/workspace/product-landing`
-1. `git add .`
-1. `git commit -m 'finished the assignment'`
-1. `git push origin master`
+### Directions
+
+Complete the following 'User Stories' and upload these files to GitHub afterwards:
+
+(You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk. Other projects will give you a chance to work with different technology stacks like React. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!)
+
+    - User Story #1: My product landing page should have a header element with a corresponding `id="header"`.
+    - User Story #2: I can see an image within the header element with a corresponding `id="header-img"`. A company logo would make a good image here.
+    - User Story #3: Within the `#header` element I can see a nav element with a corresponding `id="nav-bar"`.
+    - User Story #4: I can see at least three clickable elements inside the nav element, each with the class `nav-link`.
+    - User Story #5: When I click a `.nav-link` button in the nav element, I am taken to the corresponding section of the landing page.
+    - User Story #6: I can watch an embedded product video with `id="video"`.
+    - User Story #7: My landing page has a form element with a corresponding `id="form"`.
+    - User Story #8: Within the form, there is an input field with `id="email"` where I can enter an email address.
+    - User Story #9: The `#email` input field should have placeholder text to let the user know what the field is for.
+    - User Story #10: The `#email` input field uses HTML5 validation to confirm that the entered text is an email address.
+    - User Story #11: Within the form, there is a submit input with a corresponding `id="submit"`.
+    - User Story #12: When I click the `#submit` element, the email is submitted to a static page.
+    - User Story #13: The navbar should always be at the top of the viewport.
+    - User Story #14: My product landing page should have at least one media query.
+    - User Story #15: My product landing page should utilize CSS flexbox at least once.
+
+---
+
+Once you have completed the code do the following:
+
+    1. Open a terminal
+    2. `cd ~/workspace/product-landing`
+    3. `git add .`
+    4. `git commit -m 'finished the assignment'`
+    5. `git push origin master`

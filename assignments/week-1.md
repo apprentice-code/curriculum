@@ -21,11 +21,11 @@ Before you start work on your assignment complete the following steps to get Git
 
 ---
 
+### Directions
+
 You're going to create an HTML component to represent a political candidate. Specifically, the representative of your Congressional district. Visit the GovTrack site link below, enter in your home address, and you'll find basic information about your representative.
 
 https://www.govtrack.us/congress/members/map
-
----
 
 In your HTML, create an article tag that will serve as your main representative component. Give the element a unique identifier.
 
@@ -36,7 +36,7 @@ In your HTML, create an article tag that will serve as your main representative 
 
 ---
 
-Once you have completed the code do the following
+Once you have completed the code do the following:
 
     1. Open a terminal
     2. `cd ~/workspace/congressional-info`
