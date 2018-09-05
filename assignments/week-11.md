@@ -3,6 +3,7 @@
 ## Assignment Title: jQuery-todo
 
 ## Instructions:
+
 Before you start work on your assignment complete the following steps to get GitHub setup correctly. This is how you will share your work with your mentor and Code Apprentice.
 
 1. Create a new repo in GitHub titled `jQuery-todo`
@@ -22,17 +23,17 @@ Before you start work on your assignment complete the following steps to get Git
 
 ### Directions
 
-    1. Create a jQuery-todo application
-    2. You should be able to enter a todo, and it should appear on the screen.
-    3. You should be able to delete a todo, if it is no longer valid.
-    4. You should be able to mark the todo as completed. 
+1. Create a jQuery-todo application
+2. You should be able to enter a todo, and it should appear on the screen.
+3. You should be able to delete a todo, if it is no longer valid.
+4. You should be able to mark the todo as completed. 
 
 ---
 
 Once you have completed the code do the following:
 
-    1. Open a terminal
-    2. `cd ~/workspace/jQuery-todo`
-    3. `git add .`
-    4. `git commit -m 'finished the assignment'`
-    5. `git push origin master`
+1. Open a terminal
+2. `cd ~/workspace/jQuery-todo`
+3. `git add .`
+4. `git commit -m 'finished the assignment'`
+5. `git push origin master`

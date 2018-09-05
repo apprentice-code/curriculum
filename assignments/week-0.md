@@ -3,6 +3,7 @@
 ## Assignment Title: hello-world
 
 ## Instructions:
+
 Before you start work on your assignment complete the following steps to get GitHub setup correctly. This is how you will share your work with your mentor and Code Apprentice.
 
 1. Create a new repo in GitHub titled `hello-world`

@@ -36,8 +36,8 @@ You should display 6 cards on one HTML Page.
 
 Once you have completed the code do the following:
 
-    1. Open a terminal
-    2. `cd ~/workspace/card-collection`
-    3. `git add .`
-    4. `git commit -m 'finished the assignment'`
-    5. `git push origin master`
+1. Open a terminal
+2. `cd ~/workspace/card-collection`
+3. `git add .`
+4. `git commit -m 'finished the assignment'`
+5. `git push origin master`

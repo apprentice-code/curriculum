@@ -3,6 +3,7 @@
 ## Assignment Title: state-flag
 
 ## Instructions:
+
 Before you start work on your assignment complete the following steps to get GitHub setup correctly. This is how you will share your work with your mentor and Code Apprentice.
 
 1. Create a new repo in GitHub titled `state-flag`
@@ -31,8 +32,8 @@ You will generate an HTML/CSS document that displays your state flag. If your st
 
 Once you have completed the code do the following:
 
-    1. Open a terminal
-    2. `cd ~/workspace/state-flag`
-    3. `git add .`
-    4. `git commit -m 'finished the assignment'`
-    5. `git push origin master`
+1. Open a terminal
+2. `cd ~/workspace/state-flag`
+3. `git add .`
+4. `git commit -m 'finished the assignment'`
+5. `git push origin master`
