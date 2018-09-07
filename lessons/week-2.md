@@ -1,5 +1,4 @@
 # Code Apprentice - Week #2
-September 17, 2018 - September 21, 2018 (Charleston County Schools)
 
 ## Learning Objective:
 * Students will learn to operate their hardware of choice using a bash terminal to identify and recognize abstraction between the digital literate and non-digital literate.
