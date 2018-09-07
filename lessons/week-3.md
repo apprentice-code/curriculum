@@ -1,5 +1,4 @@
 # Code Apprentice - Week #3
-September 24, 2018 - September 28, 2018 (Charleston County Schools)
 
 ## Learning Objectives:
 * Students will identify use cases for the following HTML tags: `<div>`, `<a>`, `<h1>` - `<h6>`, `<ol>`, `<ul>`, `<li>`.
