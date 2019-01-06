@@ -7,19 +7,6 @@
 Before you start work on your assignment complete the following steps to get GitHub setup correctly. This is how you will share your work with your mentor and Code Apprentice.
 
 1. Create a new repo in GitHub titled `congressional-info`
-2. Copy the url titled `quick setup` it should start with https:// This will be different for everyone and should should replace `{origin-from-your-github-repo}` with that link.
-3. Open a terminal
-4. Copy and paste the following commands into your terminal.
-	- `cd ~ && mkdir workspace`
-	- `cd workspace && mkdir congressional-info`
-	- `cd congressional-info`
-	- `git init`
-	- `git remote add origin {origin-from-your-github-repo}`
-	- `git add .`
-	- `git commit -m 'init commit'`
-	- `git push origin master`
-5. Each time you would like to make changes to an assignment and share your work you will need to do this. It will be difficult to start, but you will get use to it in time.
-
 ---
 
 ### Directions
@@ -39,8 +26,5 @@ In your HTML, create an article tag that will serve as your main representative 
 
 Once you have completed the code do the following:
 
-1. Open a terminal
-2. `cd ~/workspace/congressional-info`
-3. `git add .`
-4. `git commit -m 'finished the assignment'`
-5. `git push origin master`
+1. Open up the repo through Github Desktop.
+2. Commit to master.
